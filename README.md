@@ -45,4 +45,8 @@ This project was found on Kaggle. It entails the data of sales of an electronic 
 I have been able to Maximize insight into this data set, uncover underlying structure, extract important variables, detect outliers and anomalies, Test underlying assumptions, and Determine optimal factor settings.
 The main purpose was to open-mindedly explore the data, often without having a specific hypothesis in mind, to discover patterns, spot anomalies, test a hypothesis, or check assumptions with the help of summary statistics and graphical representations. 
 
+Rush hour occurs around 11-15 when the site sells more goods than other hours. The slowest periods are towards the end of the day and the beginning of the day. The 12th hour has the most traffic and sales.
+
+A lot of customers and sales around the end of the year with November and December having massive sales and traffic 
+But throughout the end of 2010, it picked up and the activity has remained high throughout 2011 with an estimation of 200 a day.
 
