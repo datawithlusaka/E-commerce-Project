@@ -85,6 +85,7 @@ The average quantity sold throughout was around 12 units. It also sold a total o
 •	The average quantity sold throughout was around 12 units. It also sold a total of 968,813 units in its operation. With 80,959 orders. It has only made losses of 3114 orders still putting in net profit.
 
 ### Final Dashboard
+![Final Dashboard](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/dashboard.jpg)
 
 
 
