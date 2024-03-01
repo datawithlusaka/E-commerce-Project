@@ -57,4 +57,7 @@ This chart shows the number of orders made by single customers’ the most being
 
 This shows the top 10 spenders in the business. This however comes as a shock as not a lot of the top orders are the most spenders which shows that the site is convenient for buying a lot of goods at a cheaper price as witnessed by the most orders placed.
 
-![Top 10 Spenders](
+![Top 10 Spenders](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/amount_spend_by_top10.jpg)
+
+This chart shows the top 20 most bought items and they need to restock the inventory. However, the gap isn’t tremendous hence showing that the chart might just shift. This also shows that the business is providing the required goods and hence the balance in sales.
+![Top 20 Most Bought](
