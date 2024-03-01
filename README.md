@@ -64,3 +64,31 @@ This chart shows the top 20 most bought items and they need to restock the inven
 ![Top 20 Most Bought](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/top20_items.jpg)
 
 This clearly shows that the most expensive item bought was from the United Kingdom. The store majorly serves this region as it is evident with most orders coming from this region. It also caters to European countries majorly.
+
+![Most_expensive_in_each_country](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/most_expensive%20in%20each%20country.jpg)
+
+The orders throughout 2011 have been consistent with not much spike but the sales have increased nevertheless. This may be due to the infancy of the business as the orders picked up after a couple of months.
+These 3 countries are above the average sales meaning they have done exceptionally well in the region in sales. over 19k orders are above average which means 19k only are spending above average. It means customers need to be encouraged to spend more.
+
+The average quantity sold throughout was around 12 units. It also sold a total of 968,813 units in its operation. With 80,959 orders. It has only made losses of 3114 orders still putting in net profit.
+
+
+### Summary.
+•	Rush hour occurs around 11-15 when the site sells more goods than other hours. The slowest periods are towards the end of the day and the beginning of the day
+
+•	The customer with the highest number of orders was 1,584.
+
+•	the top 20 most bought items and they need to restock the inventory. However, the gap isn’t tremendous hence showing that the chart might just shift. This also shows that the business is providing the required goods and hence the balance in sales
+
+•	There are 3 countries that have above average sales i.e. United Kingdom, Netherlands and EIRE
+
+•	The average quantity sold throughout was around 12 units. It also sold a total of 968,813 units in its operation. With 80,959 orders. It has only made losses of 3114 orders still putting in net profit.
+
+### Final Dashboard
+
+
+
+### Recommendations
+•	Improve the sales of the other countries by either advertising or better marketing.
+•	Implement everything that has made United Kingdom a successful market to other countries
+•	Increase good production to satisfy the high need of products.
