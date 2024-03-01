@@ -53,4 +53,8 @@ But throughout the end of 2010, it picked up and the activity has remained high 
 ![Orders by Hour](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/Orders_by_hour.jpg)
 
 This chart shows the number of orders made by single customers’ the most being 1,584 orders. This is enough proof that the site and business are working efficiently and helping many people access the goods they require.
-![Top 10 Customers](
+![Top 10 Customers](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/top10_customers.jpg)
+
+This shows the top 10 spenders in the business. This however comes as a shock as not a lot of the top orders are the most spenders which shows that the site is convenient for buying a lot of goods at a cheaper price as witnessed by the most orders placed.
+
+![Top 10 Spenders](
