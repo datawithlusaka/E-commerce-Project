@@ -60,4 +60,7 @@ This shows the top 10 spenders in the business. This however comes as a shock as
 ![Top 10 Spenders](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/amount_spend_by_top10.jpg)
 
 This chart shows the top 20 most bought items and they need to restock the inventory. However, the gap isn’t tremendous hence showing that the chart might just shift. This also shows that the business is providing the required goods and hence the balance in sales.
-![Top 20 Most Bought](
+
+![Top 20 Most Bought](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/top20_items.jpg)
+
+This clearly shows that the most expensive item bought was from the United Kingdom. The store majorly serves this region as it is evident with most orders coming from this region. It also caters to European countries majorly.
