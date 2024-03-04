@@ -50,20 +50,56 @@ Rush hour occurs around 11-15 when the site sells more goods than other hours. T
 A lot of customers and sales around the end of the year with November and December having massive sales and traffic 
 But throughout the end of 2010, it picked up and the activity has remained high throughout 2011 with an estimation of 200 a day.
 
+```
+   Select [Hour], Count(Quantity) as Sold_goods
+   From [Ecommerce_Data-1]
+   Group by  [Hour]
+   Order by  [Hour] Desc;
+```
+
 ![Orders by Hour](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/Orders_by_hour.jpg)
 
+
 This chart shows the number of orders made by single customers’ the most being 1,584 orders. This is enough proof that the site and business are working efficiently and helping many people access the goods they require.
+
+```
+Select top (10) CustomerID,COUNT(OrderID) as orders
+From [Ecommerce_Data-1]
+Group by CustomerID
+Order by orders desc;
+```
+
 ![Top 10 Customers](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/top10_customers.jpg)
 
+
 This shows the top 10 spenders in the business. This however comes as a shock as not a lot of the top orders are the most spenders which shows that the site is convenient for buying a lot of goods at a cheaper price as witnessed by the most orders placed.
+
+```
+Select top(10) CustomerID,SUM(Cost) As amount_spent
+From [Ecommerce_Data-1] 
+Group by CustomerID
+Order by amount_spent desc;
+```
 
 ![Top 10 Spenders](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/amount_spend_by_top10.jpg)
 
 This chart shows the top 20 most bought items and they need to restock the inventory. However, the gap isn’t tremendous hence showing that the chart might just shift. This also shows that the business is providing the required goods and hence the balance in sales.
+```
+Select Top (20) StockCode,COUNT(OrderID) as orders
+From [Ecommerce_Data-1]
+Group by StockCode
+Order by orders desc;
+```
 
 ![Top 20 Most Bought](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/top20_items.jpg)
 
 This clearly shows that the most expensive item bought was from the United Kingdom. The store majorly serves this region as it is evident with most orders coming from this region. It also caters to European countries majorly.
+```
+Select top(10) MAX(Cost) as Highest,Country
+From [Ecommerce_Data-1]
+Group by Country
+Order by Highest Desc;
+```
 
 ![Most_expensive_in_each_country](https://github.com/datawithlusaka/E-commerce-Project/blob/main/Images/most_expensive%20in%20each%20country.jpg)
 
